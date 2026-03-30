@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on AnimeFeed</title>
+    <link>https://animefeed.net/authors/</link>
+    <description>Recent content in Authors on AnimeFeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Mar 2026 19:35:24 -0300</lastBuildDate><atom:link href="https://animefeed.net/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles by Justin Ali on the Anime Feed website</title>
+      <link>https://animefeed.net/authors/justin-ali/</link>
+      <pubDate>Sun, 29 Mar 2026 19:35:24 -0300</pubDate>
+      
+      <guid>https://animefeed.net/authors/justin-ali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles by Christopher Ivanov on the Anime Feed website</title>
+      <link>https://animefeed.net/authors/christopher-ivanov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://animefeed.net/authors/christopher-ivanov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
