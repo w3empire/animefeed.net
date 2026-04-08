@@ -6,14 +6,23 @@
     <description>Recent content in Anime Feed: All Categories in One Place on AnimeFeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:59:18 -0300</lastBuildDate><atom:link href="https://animefeed.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2026 18:55:19 -0300</lastBuildDate><atom:link href="https://animefeed.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anime Feed: Anime Category</title>
       <link>https://animefeed.net/categories/anime/</link>
-      <pubDate>Wed, 08 Apr 2026 13:59:18 -0300</pubDate>
+      <pubDate>Wed, 08 Apr 2026 18:55:19 -0300</pubDate>
       
       <guid>https://animefeed.net/categories/anime/</guid>
       <description>The Anime category is the heartbeat of this site, covering everything from seasonal premieres to the timeless classics that defined the medium.</description>
+    </item>
+    
+    <item>
+      <title>Anime Feed: Gaming &amp; Tech</title>
+      <link>https://animefeed.net/categories/gaming-tech/</link>
+      <pubDate>Wed, 08 Apr 2026 18:55:19 -0300</pubDate>
+      
+      <guid>https://animefeed.net/categories/gaming-tech/</guid>
+      <description>The Gaming &amp;amp; Tech category explores the symbiotic relationship between anime and the digital frontier.</description>
     </item>
     
     <item>
@@ -32,15 +41,6 @@
       
       <guid>https://animefeed.net/categories/manga/</guid>
       <description>The Manga category honors the &amp;ldquo;upstream&amp;rdquo; of the anime world. Before the bright colors and soundtracks, there is the raw artistry of the mangaka and the ink on the page.</description>
-    </item>
-    
-    <item>
-      <title>Anime Feed: Gaming &amp; Tech</title>
-      <link>https://animefeed.net/categories/gaming-tech/</link>
-      <pubDate>Wed, 08 Apr 2026 04:09:55 -0300</pubDate>
-      
-      <guid>https://animefeed.net/categories/gaming-tech/</guid>
-      <description>The Gaming &amp;amp; Tech category explores the symbiotic relationship between anime and the digital frontier.</description>
     </item>
     
     <item>
