@@ -6,7 +6,25 @@
     <description>Recent content in Anime Feed: All Categories in One Place on AnimeFeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 17:10:42 -0300</lastBuildDate><atom:link href="https://animefeed.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2026 02:41:12 -0300</lastBuildDate><atom:link href="https://animefeed.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anime Feed: Anime Category</title>
+      <link>https://animefeed.net/categories/anime/</link>
+      <pubDate>Wed, 08 Apr 2026 02:41:12 -0300</pubDate>
+      
+      <guid>https://animefeed.net/categories/anime/</guid>
+      <description>The Anime category is the heartbeat of this site, covering everything from seasonal premieres to the timeless classics that defined the medium.</description>
+    </item>
+    
+    <item>
+      <title>Anime Feed: Merch &amp; Collecting</title>
+      <link>https://animefeed.net/categories/merch-collecting/</link>
+      <pubDate>Wed, 08 Apr 2026 02:41:12 -0300</pubDate>
+      
+      <guid>https://animefeed.net/categories/merch-collecting/</guid>
+      <description>The Merch &amp;amp; Collecting category is for those who want to bring a piece of their favorite world into the physical realm.</description>
+    </item>
+    
     <item>
       <title>Anime Feed: Culture &amp; Lifestyle</title>
       <link>https://animefeed.net/categories/culture-lifestyle/</link>
@@ -32,15 +50,6 @@
       
       <guid>https://animefeed.net/categories/manga/</guid>
       <description>The Manga category honors the &amp;ldquo;upstream&amp;rdquo; of the anime world. Before the bright colors and soundtracks, there is the raw artistry of the mangaka and the ink on the page.</description>
-    </item>
-    
-    <item>
-      <title>Anime Feed: Anime Category</title>
-      <link>https://animefeed.net/categories/anime/</link>
-      <pubDate>Mon, 06 Apr 2026 20:43:35 -0300</pubDate>
-      
-      <guid>https://animefeed.net/categories/anime/</guid>
-      <description>The Anime category is the heartbeat of this site, covering everything from seasonal premieres to the timeless classics that defined the medium.</description>
     </item>
     
     <item>
@@ -86,15 +95,6 @@
       
       <guid>https://animefeed.net/categories/lists-recommendations/</guid>
       <description>The Lists &amp;amp; Recommendations category is designed to solve the &amp;ldquo;Paradox of Choice.</description>
-    </item>
-    
-    <item>
-      <title>Anime Feed: Merch &amp; Collecting</title>
-      <link>https://animefeed.net/categories/merch-collecting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://animefeed.net/categories/merch-collecting/</guid>
-      <description>The Merch &amp;amp; Collecting category is for those who want to bring a piece of their favorite world into the physical realm.</description>
     </item>
     
   </channel>
