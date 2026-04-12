@@ -6,14 +6,23 @@
     <description>Recent content in Anime Feed: All Categories in One Place on AnimeFeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 15:35:35 -0300</lastBuildDate><atom:link href="https://animefeed.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Apr 2026 19:26:03 -0300</lastBuildDate><atom:link href="https://animefeed.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anime Feed: Anime Category</title>
       <link>https://animefeed.net/categories/anime/</link>
-      <pubDate>Sun, 12 Apr 2026 15:35:35 -0300</pubDate>
+      <pubDate>Sun, 12 Apr 2026 19:26:03 -0300</pubDate>
       
       <guid>https://animefeed.net/categories/anime/</guid>
       <description>The Anime category is the heartbeat of this site, covering everything from seasonal premieres to the timeless classics that defined the medium.</description>
+    </item>
+    
+    <item>
+      <title>Anime Feed: Movies Category</title>
+      <link>https://animefeed.net/categories/movies/</link>
+      <pubDate>Sun, 12 Apr 2026 19:26:03 -0300</pubDate>
+      
+      <guid>https://animefeed.net/categories/movies/</guid>
+      <description>The Movies category celebrates the cinematic spectacle of anime. While series provide long-form development, movies offer a level of production value and focused storytelling that defines the &amp;ldquo;prestige&amp;rdquo; side of the industry.</description>
     </item>
     
     <item>
@@ -68,15 +77,6 @@
       
       <guid>https://animefeed.net/categories/events-community/</guid>
       <description>The Events &amp;amp; Community category is dedicated to the shared experience of being a fan.</description>
-    </item>
-    
-    <item>
-      <title>Anime Feed: Movies Category</title>
-      <link>https://animefeed.net/categories/movies/</link>
-      <pubDate>Sat, 11 Apr 2026 12:42:16 -0300</pubDate>
-      
-      <guid>https://animefeed.net/categories/movies/</guid>
-      <description>The Movies category celebrates the cinematic spectacle of anime. While series provide long-form development, movies offer a level of production value and focused storytelling that defines the &amp;ldquo;prestige&amp;rdquo; side of the industry.</description>
     </item>
     
     <item>
