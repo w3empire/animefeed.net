@@ -43,11 +43,16 @@
       
       
           
-          
-
-      
       
 
+      
+          <url>
+              <loc>https://animefeed.net/</loc>
+              
+              <lastmod>2026-04-14T16:29:22-03:00</lastmod>
+              
+              
+          </url>
       
      
   
@@ -58,11 +63,16 @@
       
       
           
+          
+              
+          
+
+      
       
 
       
           <url>
-              <loc>https://animefeed.net/</loc>
+              <loc>https://animefeed.net/categories/anime/</loc>
               
               <lastmod>2026-04-14T16:29:22-03:00</lastmod>
               
@@ -651,10 +661,20 @@
       
           
           
+              
+          
 
       
       
 
+      
+          <url>
+              <loc>https://animefeed.net/categories/manga/</loc>
+              
+              <lastmod>2026-04-13T15:08:04-03:00</lastmod>
+              
+              
+          </url>
       
      
   
